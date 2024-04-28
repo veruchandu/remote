@@ -4,5 +4,5 @@ variable "ami" {
 }
 variable "aws_instance" {
   type = string
-  default = "t2.micro"
+  default = "t2.nano"
 }
